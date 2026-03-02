@@ -1,4 +1,6 @@
-
+![Python](https://img.shields.io/badge/Python-DSA-blue)
+![Problems Solved](https://img.shields.io/badge/Problems-25-green)
+![Focus](https://img.shields.io/badge/Focus-Interview%20Prep-orange)
 🚀 Data Structures & Algorithms Practice
 
 This repository documents my journey of mastering Data Structures & Algorithms for technical interviews and strong problem-solving skills.
